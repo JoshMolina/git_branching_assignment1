@@ -2,6 +2,7 @@
 1st Commit to feature-A
 2nd Commit to feature-A
 <<<<<<< HEAD
+<<<<<<< HEAD
 1st Commit to feature-B
 2nd Commit to feature-B
 =======
@@ -11,3 +12,8 @@
 4th Commit to feature-C
 5th Commit to feature-C
 >>>>>>> feature-C
+=======
+3rd Commit to feature-A
+4th Commit to feature-A
+5th Commit to feature-A
+>>>>>>> feature-A
