@@ -1,5 +1,13 @@
 1st Commit to Master
 1st Commit to feature-A
 2nd Commit to feature-A
+<<<<<<< HEAD
 1st Commit to feature-B
 2nd Commit to feature-B
+=======
+1st Commit to feature-C
+2nd Commit to feature-C
+3rd Commit to feature-C
+4th Commit to feature-C
+5th Commit to feature-C
+>>>>>>> feature-C
